@@ -81,11 +81,6 @@ public class Main {
             System.out.println(studentList.get(i));
         }
 
-        //Print teacher name
-
-
-        //Print student name
-
-
+        
     }
 }
